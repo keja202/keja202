@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Kejalakshmi, a passionate developer with a ❤ for coding and a thirst for knowledge 🤓. With a strong foundation in 💻 Python, 💡 Java, and 📊 c++, I'm always looking to expand my skillset and take on new challenges 🎯. I'm a ☕ coffee aficionado and a ✈ travel enthusiast, always on the lookout for the next great adventure. With a strong work ethic and a 💡 creative spark, I'm excited to collaborate with others and bring innovative ideas to life 💥.<br>
+I'm Kejalakshmi, a passionate web developer with a ❤ for coding and a thirst for knowledge 🤓. With a strong foundation in 💻 Python, 💡 Java, and 📊 c++, I'm always looking to expand my skillset and take on new challenges 🎯. I'm a ☕ coffee aficionado and a ✈ travel enthusiast, always on the lookout for the next great adventure. With a strong work ethic and a 💡 creative spark, I'm excited to collaborate with others and bring innovative ideas to life 💥.<br>
 
 
 ## 🌐 Socials:
