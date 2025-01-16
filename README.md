@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Keja Lakshmi, an AIML student and web developer with a passion for solving real-world problems through innovative technology. With expertise in Python, Java, C++, and machine learning, I thrive on building impactful projects and learning new skills. I'm a coffee enthusiast and a travel lover, always seeking opportunities to grow and collaborate on meaningful work.
+I'm Keja Lakshmi, an AIML student and machine learning with a passion for solving real-world problems through innovative technology. With expertise in Python, Java, C++, and web developer, I thrive on building impactful projects and learning new skills. I'm a coffee enthusiast and a travel lover, always seeking opportunities to grow and collaborate on meaningful work.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Awesome_dreamer_202)  
